@@ -6,5 +6,5 @@ It has almost the same functionality,
 and does not need a web browser like chrome or Opera.  
 It used the Python libs pyserial , and Pysimplegui,  
 which is free again in 2026.  
-Tested with Python 3.14 on Mac OS Tahoe, Apple Silicon.
-
+Tested with Python 3.14 on Mac OS Tahoe, Apple Silicon.  
+More information, is in the python source.
