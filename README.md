@@ -1,8 +1,8 @@
 # Forth-terminal
 This repo contains a python file named zeptocom_gui3.py,   
-which is a claude transformed version of zeptocomjs
+which is a claude rebuild version of zeptocomjs
 see: [https://github.com/tabemann/zeptocomjs/]
 it has almost the same functionality,  
-and does not need a browser like chrome or Opera.  
+and does not need a web browser like chrome or Opera.  
 It used the Python libs pyserial , and Pysimplegui.
 
